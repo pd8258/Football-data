@@ -1,0 +1,125 @@
+,Abbrev,Full Name,Description
+0,6S,6 Second Violations,6 Second Violations
+1,ACr,Accurate Crosses,"An accurate pass from a wide position (via corners, open plays and set pieces) into a specific area in front of the goal. The pass must be touched next by a teammate of the crossing player."
+2,APa,Accurate Passes,All accurate passes (excluding crosses)
+3,AL,Aerials Lost,Unsuccessful aerial duels (the definition of an aerial duel is that it is between two players - either both jumping or only one jumping and the other contesting the header by making it difficult to win - and one player has to win the contest with a header OR if it is between an outfield player and a goalkeeper then the goalkeeper is allowed to punch it clear)
+4,AW,Aerials Won,Successful aerial duels (the definition of an aerial duel is that it is between two players - either both jumping or only one jumping and the other contesting the header by making it difficult to win - and one player has to win the contest with a header OR if it is between an outfield player and a goalkeeper then the goalkeeper is allowed to punch it clear)
+5,A,Assists,"An official assist, as tracked by the official Premier League site. Fantasy assists (e.g. assists from rebounds) do not count."
+6,AF,Assists (Fantasy),"Fantasy (not official Premier League) assists. These assists include ones from blocked shots, free kick goals, handballs won, own goal, passes lost, penalty kick goals, rebounds and shots off the post."
+7,A/90M,Assists Per 90 Minutes,Assists Per 90 Minutes
+8,A/G,Assists Per Game,Assists Per Game
+9,ABS,Assists from Blocked Shots,A shot blocked by a defender and scored on the rebound.
+10,AFKG,Assists from Free Kick Goals,A foul won that leads to a direct free kick scored.
+11,AHW,Assists from Handballs Won,A player forces a handball which results in a free kick scored.
+12,AOG,Assists from Own Goal,"A player shoots or passes, forcing a defender to put the ball in his own goal."
+13,APL,Assists from Passes Lost,A heavily deflected pass.
+14,APKG,Assists from Penalty Kick Goals,An assist assigned to a player who wins a penalty which is taken and scored by a teammate.
+15,AR,Assists from Rebounds,A shot saved by the goalkeeper but scored on the rebound.
+16,ASOP,Assists from Shots Off Post,A shot that hits the post and is scored on the rebound.
+17,ASh,Assists on Shots,Player assists a shot (including goals)
+18,BCC,Big Chances Created,Passes which led to a clear cut scoring opportunity. This can only be the last pass before a shot or missed attempt.
+19,BCM,Big Chances Missed,Clear cut scoring opportunities which were not converted/scored.
+20,BCS,Big Chances Scored,Goals scored which were a clear cut chance
+21,BCr,Blocked Crosses,A cross blocked by the defender
+22,BS,Blocked Shots,"Any goal attempt heading roughly on target toward goal which is blocked by a defender, where there are other defenders or a goalkeeper behind the blocker."
+23,CS,Clean Sheets,Awarded to a player who played at least 60 minutes and whose team gave up 0 goals that game.
+24,CSD,Clean Sheets for Defenders,Awarded to a defender who played at least 60 minutes and whose team gave up 0 goals that game.
+25,CSF,Clean Sheets for Forwards,Awarded to a forward who played at least 60 minutes and whose team gave up 0 goals that game.
+26,CSM,Clean Sheets for Midfielders,Awarded to a midfielder who played at least 60 minutes and whose team gave up 0 goals that game.
+27,CS,Clean Sheets for Outfielders,Awarded to an outfielder who played at least 60 minutes and whose team gave up 0 goals that game.
+28,ClA,Clearances Attempted,Total number of clearances attempted
+29,ClS,Clearances Succeeded,Successful defensive clearance - where player under pressure kicks the ball clear of the defensive zone and/or out of play
+30,CoA,Contests Attempted,"A dribble past a player attempted (contests always involve 2 players) - doesn't include ""overrun"" situations where the attacking player takes on an opponent but the ball runs away from them out of play or to an opponent"
+31,CoS,Contests Succeeded,Total dribbles where a player beats an opponent - no overruns
+32,CSLM,Contests Succeeded (Last Man),Player successfully beats the last man in a dribble
+33,CK,Corner Kicks,Total corners taken (including short corners)
+34,CC,Corners Conceded,Total corners conceded by the defensive player/team
+35,CF,Corners Forced,Total corners forced by the offensive player/team
+36,CIB,Corners In Box,Accurate corner distributions into the box - can include long balls if the corner kick is passed greater than 35 yards
+37,Cr,Crosses,Total crosses attempted
+38,CF,Crosses Failed,Crosses Attempted - Accurate Crosses
+39,DP,Dangerous Plays,Foul for play which could cause serious injury to an opponent
+40,DPt,Discipline Points,Fouls + (3 x Yellow Cards) + (6 x Red Cards)
+41,DL,Duels Lost,"Duel over the possession of the ball where a player loses the ball - doesn't include ""overrun"" situations where the attacking player takes on an opponent but the ball runs away from them out of play or to an opponent."
+42,DW,Duels Won,"Duel over the possession of the ball where a player wins the ball - doesn't include ""overrun"" situations where the attacking player takes on an opponent but the ball runs away from them out of play or to an opponent."
+43,FC,Fouls Committed,Fouls Committed
+44,FC/G,Fouls Committed Per Game,Fouls Committed Per Game
+45,FS,Fouls Suffered,Fouls Suffered
+46,FS/G,Fouls Suffered Per Game,Fouls Suffered Per Game
+47,FKG,Free Kick Goals,Goal from a direct free kick
+48,FKM,Free Kick Misses,Miss from a direct free kick
+49,FKS,Free Kick Shots,Total shots from direct free kicks
+50,GP,Games Played,Games Played
+51,GS,Games Started,Games Started
+52,G,Goals,Goals
+53,GA,Goals Against,Goals Against
+54,GAA,Goals Against Average,Average Goals Against per Game
+55,GAD,Goals Against Defenders,Goals conceded by the team while the defender was on the field
+56,GAF,Goals Against Forwards,Goals conceded by the team while the forward was on the field
+57,GAIB,Goals Against Inside Box,Goal against from a shot inside the box
+58,GAM,Goals Against Midfielders,Goals conceded by the team while the midfielder was on the field
+59,GA,Goals Against Outfielders,Goals conceded by the team while the player was on the field
+60,GAOB,Goals Against Outside Box,Goal against from a shot outside the box
+61,GON,Goals On Own Net,Goals scored on own net
+62,G/90M,Goals Per 90 Minutes,Goals Per 90 Minutes
+63,G/G,Goals Per Game,Goals Per Game
+64,HB,Hand Balls,Foul for handball
+65,HT,Hat Tricks,Player scores 3 goals in a game
+66,HCA,High Claims Attempted,Goalkeeper attempts to catch a cross
+67,HCS,High Claims Succeeded,Goalkeeper catches a cross
+68,Int,Interceptions,Player intercepts a pass
+69,IntB,Interceptions in the Box,Interception made within the box
+70,L,Losses,"A loss by the player's team. The player only gets credit for the loss if he plays 60+ min, and is on his team's official Active roster or he is suspended."
+71,Min,Minutes Played,Minutes Played
+72,Off,Offsides,Offsides
+73,Off/90M,Offsides Per 90 Minutes,Offsides Per 90 Minutes
+74,Off/G,Offsides Per Game,Offsides Per Game
+75,OO,One-on-Ones,Total goalkeeper one-on-one situations against an attacker
+76,Pa,Passes,"Total attempted passes (excluding crosses, goal kicks, keeper throws and throw-ins)"
+77,Pc%,Passing Completion Percentage,Completed Passes / Attempted Passes
+78,Pen,Penalties,Penalties conceded (including handballs)
+79,PKG,Penalty Kick Goals,Penalty Kick Goals
+80,PKGA,Penalty Kick Goals Against,Penalty Kick Goals Against
+81,PKS,Penalty Kick Saves,Number of penalty kicks saved by the goalie
+82,PKA,Penalty Kicks Attempted,Number of penalty kicks taken by the shooter
+83,PKD,Penalty Kicks Drawn,Player fouled within the penalty box (excludes any penalty kicks drawn for handballs)
+84,PKF,Penalty Kicks Faced,Number of penalty kicks faced by the goalie
+85,PKM,Penalty Kicks Missed,Number of penalty kicks where the shooter did not score
+86,Pts,Points,Goals + Assists
+87,Pt/90M,Points Per 90 Minutes,Points Per 90 Minutes
+88,Pt/G,Points Per Game,Points Per Game
+89,PL,Possessions Lost,Total losses of possession
+90,PLC,Possessions Lost - Control,Total losses of possession excluding clearances & long GK distribution
+91,Pu,Punches,Goalkeeper punches the ball clear from a high ball
+92,RC,Red Cards,"If a player receives a red card and then has his red card rescinded at a later time, his red card will remain (i.e. he will have credit for both a red card and a red card rescinded)."
+93,RCR,Red Cards Rescinded,Red card rescinded by the referee
+94,Sv%,Save Percentage,Save Percentage
+95,Sv,Saves,Saves
+96,SvIB,Saves Inside the Box,Saves Inside the Box
+97,SvOB,Saves Oustide the Box,Saves Oustide the Box
+98,SYC,Second Yellow Cards,Second Yellow Cards
+99,SA,Shooting Accuracy,Shots on Goal / Shots
+100,Sh,Shots,Shots
+101,ShA,Shots Against,"Any shot against the goalie, whether or not it missed the net"
+102,ShA,Shots Against Defenders,Shots conceded by the team while the defender was on the field
+103,ShA,Shots Against Forwards,Shots conceded by the team while the forward was on the field
+104,ShA,Shots Against Midfielders,Shots conceded by the team while the midfielder was on the field
+105,ShA,Shots Against Outfielders,Shots conceded by the team while the player was on the field
+106,SB,Shots Blocked,Shots blocked (against the shooter)
+107,ShA,Shots On Goal Against,Shots On Goal Against
+108,ShG/90M,Shots On Goal Per 90 Minutes,Shots On Goal Per 90 Minutes
+109,ShG/G,Shots On Goal Per Game,Shots On Goal Per Game
+110,Sh/90M,Shots Per 90 Minutes,Shots Per 90 Minutes
+111,Sh/G,Shots Per Game,Shots Per Game
+112,SOP,Shots off the Post,Shots off the Post
+113,SOG,Shots on Goal,Shots on Goal
+114,Sm,Smothers,Smothers
+115,SubOff,Substitutions Off,Substitutions Off
+116,SubOn,Substitutions On,Substitutions On
+117,SFTP,Successful Final Third Passes,"Total successful passes where the ball ends in the final third of the pitch (excluding throw-ins, keeper throws, goal kicks and crosses)."
+118,Tk,Tackles,Total tackle attempts
+119,TLM,Tackles - Last Man,When a player makes a defensive action/tackle and they are the last person between the opponent and the goal
+120,TkW,Tackles Won,Total tackles won (winning possession or putting the ball out of play)
+121,T,Ties,Ties
+122,W,Wins,"A win by the player's team. The player only gets credit for the win if he plays 60+ min, and is on his team's official Active roster or he is suspended."
+123,YC,Yellow Cards,Yellow Cards
